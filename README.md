@@ -6,4 +6,4 @@ This project predicts crop yield using a regression-based machine learning model
 
 GOOGLE COLAB NOTE FILE : https://drive.google.com/file/d/1Ca2g_VFQ2zHmhi-K-35AgLiOiRFHI7Wd/view?usp=sharing
 
-PTROJECT PRESENATATION FILE : https://drive.google.com/file/d/1Vwiq8R4bkQrP9Py_UYeXClLmkk22bxeI/view?usp=drivesdk
+PROJECT PRESENTATION FILE : https://drive.google.com/file/d/1Vwiq8R4bkQrP9Py_UYeXClLmkk22bxeI/view?usp=drivesdk
